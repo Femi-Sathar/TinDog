@@ -7,3 +7,5 @@ Applied - HTML5 , Font-Awesome ,
 CSS3 - Basic css, Display property, Positioning, Z indexing and stacking, combination selectors, media query breakpoint-responsive layout,font embedding
 <br/>
 Bootstrap 5- Carousel,card,grid layout,containers,Buttons,navbar
+<br/>
+<a href="https://femi-sathar.github.io/TinDog/">Link to MY TinDog Replica</a>
